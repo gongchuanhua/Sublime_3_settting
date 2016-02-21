@@ -1,0 +1,14 @@
+{
+	"theme": "Brogrammer.sublime-theme",
+  	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"update_check": false,
+	"show_line_endings": true,
+	"line_numbers": true,
+	// "margin": 0,
+	"highlight_modified_tabs": true
+}

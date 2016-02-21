@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"SublimeLinter",
+		"Theme - Flatland",
+		"Theme - Soda SolarizedDark"
+	]
+}
